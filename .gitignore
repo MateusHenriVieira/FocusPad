@@ -1,0 +1,36 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# Firebase (Não envie suas chaves privadas se houver)
+firebase_options.dart
+.firebaserc
+
+# Android
+.gradle/
+local.properties
+*.kwks
+*.keystore
+release-Drawing.json
+
+# iOS
+.save
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+**/Runner.xcworkspace/xcuserdata
+**/Runner.xcodeproj/project.xcworkspace
+**/Runner.xcodeproj/xcuserdata
+DerivedData/
+Pods/
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+*.iml

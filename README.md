@@ -1,18 +1,27 @@
-# focuspad
+# FocusPad 📝
 
-A new Flutter project.
+O **FocusPad** é um aplicativo de anotações premium desenvolvido com **Flutter** e **Firebase**, focado em produtividade e privacidade. Ele foi projetado para parecer um bloco de notas minimalista, mas esconde funcionalidades robustas de organização.
 
-## Getting Started
+## ✨ Funcionalidades Atuais
 
-This project is a starting point for a Flutter application.
+- **Editor Minimalista:** Escrita limpa em modo escuro (Zinc Theme) com suporte a Negrito, Listas e Links através do menu nativo.
+- **Sincronização Cloud:** Integração total com Firebase Realtime Database para salvar notas em tempo real.
+- **Lembretes Inteligentes:** Sistema de notificação por data e hora integrado ao menu de opções.
+- **Gestão de Notas:** Arquivamento e Lixeira para manter o fluxo de trabalho organizado.
+- **Exportação Premium:** Transforma notas em imagens elegantes com estilo de janela macOS para compartilhamento.
+- **Segurança de Acesso:** Fluxo de autenticação blindado, onde usuários criados pelo gestor são impedidos de alterar a senha via app.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tecnologias Utilizadas
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- **Framework:** Flutter
+- **Gerenciamento de Estado:** Riverpod
+- **Banco de Dados:** Firebase Realtime Database
+- **Autenticação:** Firebase Auth
+- **Navegação:** GoRouter
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# FocusPad
+## 🚀 Como Executar
+
+1. Certifique-se de ter o Flutter instalado.
+2. Clone o repositório:
+   ```bash
+   git clone [https://github.com/MateusHenriVieira/FocusPad.git](https://github.com/MateusHenriVieira/FocusPad.git)
