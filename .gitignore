@@ -33,4 +33,5 @@ Pods/
 # IDEs
 .idea/
 .vscode/
-*.iml
+*.imlios/Runner/GoogleService-Info.plist
+android/app/google-services.json
